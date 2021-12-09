@@ -5,10 +5,15 @@ using UnityEngine;
 public class GameController : MonoBehaviour
 {
     public Transform player;
-    public Transform spawnPoint;
+    public Transform currentSpawnPoint;
 
     void Start()
     {
-        player.position = spawnPoint.position;
+        player.position = currentSpawnPoint.position;
+    }
+
+    public void setCurrentSpawnPoint(Transform newSpawnPoint)
+    {
+        currentSpawnPoint = newSpawnPoint;
     }
 }

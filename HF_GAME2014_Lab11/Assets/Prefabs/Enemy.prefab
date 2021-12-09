@@ -12,7 +12,7 @@ GameObject:
   m_Layer: 0
   m_Name: LookAheadPoint
   m_TagString: Untagged
-  m_Icon: {fileID: 4162164826716764455, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -42,7 +42,7 @@ GameObject:
   m_Layer: 0
   m_Name: LookInFrontPoint
   m_TagString: Untagged
-  m_Icon: {fileID: 2488908585195742037, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 4162164826716764455, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -73,7 +73,7 @@ GameObject:
   - component: {fileID: 5727187075504445230}
   - component: {fileID: 5727187075504445227}
   - component: {fileID: 4654830703213492088}
-  - component: {fileID: 5727187075504445229}
+  - component: {fileID: 7144035344088065185}
   - component: {fileID: 6304511245192276336}
   - component: {fileID: -3215534371051950251}
   - component: {fileID: 5727187075504445226}
@@ -218,11 +218,13 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.67, y: 0.35}
-      - {x: 0, y: 0.75}
-      - {x: -1.07, y: 0.35}
---- !u!61 &5727187075504445229
-BoxCollider2D:
+    - - {x: 0.515932, y: 0.22075716}
+      - {x: 0.005193323, y: 0.58425903}
+      - {x: -0.7297058, y: 0.34208488}
+      - {x: -0.9193306, y: 0.21865702}
+      - {x: -1.0556453, y: 0.014995486}
+--- !u!70 &7144035344088065185
+CapsuleCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -234,19 +236,9 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.20000005, y: -0.23458743}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.25, y: 1.75}
-    newSize: {x: 2.25, y: 1.75}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1.7, y: 1.1691747}
-  m_EdgeRadius: 0
+  m_Offset: {x: -0.19946067, y: -0.20000146}
+  m_Size: {x: 1.7792177, y: 1.1600064}
+  m_Direction: 1
 --- !u!60 &6304511245192276336
 PolygonCollider2D:
   m_ObjectHideFlags: 0
