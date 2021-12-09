@@ -218,9 +218,9 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.65, y: 0.35}
+    - - {x: 0.67, y: 0.35}
       - {x: 0, y: 0.75}
-      - {x: -1.05, y: 0.35}
+      - {x: -1.07, y: 0.35}
 --- !u!61 &5727187075504445229
 BoxCollider2D:
   m_ObjectHideFlags: 0
