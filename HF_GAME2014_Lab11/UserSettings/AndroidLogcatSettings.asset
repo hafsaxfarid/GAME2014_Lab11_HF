@@ -2,8 +2,8 @@
     "m_SelectedDeviceId": "emulator-5554",
     "m_SelectedPackage": {
         "deviceId": "emulator-5554",
-        "name": "ca.hxf.HF_GAME2014_Lab10",
-        "processId": 3854,
+        "name": "ca.hxf.HF_GAME2014_Lab11",
+        "processId": 4030,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -42,6 +42,54 @@
             "deviceId": "emulator-5554",
             "name": "ca.hxf.HF_GAME2014_Lab10",
             "processId": 3854,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 2669,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 2920,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 3153,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 3330,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 3521,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 3684,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 3861,
+            "exited": false
+        },
+        {
+            "deviceId": "emulator-5554",
+            "name": "ca.hxf.HF_GAME2014_Lab11",
+            "processId": 4030,
             "exited": false
         }
     ],
